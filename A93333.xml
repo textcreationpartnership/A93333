@@ -1,0 +1,290 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Smart's aurum purgans.</title>
+            <author>Smart, quack doctor.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1665</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93333</idno>
+            <idno type="STC">Wing S4010D</idno>
+            <idno type="STC">ESTC R184286</idno>
+            <idno type="EEBO-CITATION">45789404</idno>
+            <idno type="OCLC">ocm 45789404</idno>
+            <idno type="VID">172715</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93333)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172715)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2646:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Smart's aurum purgans.</title>
+                  <author>Smart, quack doctor.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1665?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Authorship suggested by Wing.</note>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Patent medicines --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:172715:1" rendition="simple:additions"/>
+            <head>SMART'S AURUM PURGANS.</head>
+            <p>THis exellent thing was by the Author propoſed to his Royal Highneſs, fo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of the Navy, and the preſerva<g ref="char:EOLhyphen"/>tion of the health of <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>je<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ie<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſubjects, his Royal Highneſs was graci<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uſly pleaſed to refe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the principal Officers and Commiſſioners <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f the Navy, <hi>December</hi> 2. 166<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. they did deſire Sir <hi>John Lawſon</hi> to Convene the Chirurgions bound to Sea un<g ref="char:EOLhyphen"/>der his command to conſider of it, &amp;c. <hi>December</hi> 17. 1663. the Chirurgions referred it to his Majeſties Phyſitians, and thoſe after diligent inquiry and examination made both of the Ingredients and Compoſitions, together with ſeveral atteſta<g ref="char:EOLhyphen"/>tions of Chirurgions and others, who had ſucceſsfully practiſed this preparation, they conceived it to be a proper and uſeful remedy, eſpecially for Sea-faring Men, and did recommend the uſe of it to the Chirurgions, &amp;c.</p>
+            <p>For the better accommodation of the people they be poyſed off in ſmal Balls or Pills of thirty grains apiece, which is a ſuffi<g ref="char:EOLhyphen"/>cient doſe for a perſon of a tender Conſtitution, thoſe of a mid<g ref="char:EOLhyphen"/>dle conſtitution will require one and a half, thoſe of a ſtrong conſtitution two Pills. So far for the generality of perſons and their diſtempers, but in Diſeaſes over grown or long continu<g ref="char:EOLhyphen"/>ance, as in bodies taken with the dead Palſey, or that have been prejudicially fluxed with Mercurial Medicines, and in other like caſes, or in diſtempers of groſs and ſtrong bodies, it will be neceſſary to augment the doſe according to the conſti<g ref="char:EOLhyphen"/>tution of the Patient, or Inveterance and powerfulneſs of the
+<pb n="2" facs="tcp:172715:2"/> Diſeaſe, as to two and a half or three Pills, yea four and to ſome perſons I have given five Pills, being leſſer quantity would not ſerve. And thus the careful Phyſitian upon ſuch occaſions, firſt beginning low, may afterwards raiſe his doſe until he find out how much the Patient muſt have, and ſo go on.</p>
+            <p>Take this Doſe as you ſhall find convement, and having cut it very ſmal, put it in a ſpoon; then amongſt half a pint of Ale or Beer rub it with the haft of your knife in the ſpoon amongſt the Ale or Beer until it diſſolve; then put it to the fire, and let it but juſt boyl up, ſo remove it from the fire and let it cool, ſo as that the Patient may drink it in the morning faſting; and afterwards as it begin to work, let the Patient drink plentiful<g ref="char:EOLhyphen"/>ly of Ale or Beer well warmed, its better then Poſſet drink. In four hours time it has commonly done all its work, then give the Patient a glaſs of Sack, and ſo let him alone until the end of ſix hours, for then is it time that the Patient muſt eat ſom<g ref="char:EOLhyphen"/>thing, a good Caudle, or ſome other comfortable broath, is better then fleſh meats at the firſt, but however of neceſſity he muſt eat ſomthing, and not be kept any longer faſting, for the Spirits and Vitals having been engaged in this Fight they muſt of neceſſity be recruited; as <hi>Marien</hi> in his <hi>Turb<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Philoſophorum</hi> ſaies, <hi>Honor our King in coming from Battail.</hi>
+            </p>
+            <p>Some there be that cannot abide to drink any Phyſical Poti<g ref="char:EOLhyphen"/>on, which people may cut it ſmal and make it up in leſſer Pills, and ſo ſwallow it down, and drink ſome warm Ale after it; or mix it with honey and ſwallow it down, or take it in the yolk of an Egg, or which way you find beſt to give your Patient content.</p>
+            <p>But as for Children and Infants for their Infirmities which requires Phyſick, this <hi>Aurum Purgans</hi> when it is p<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>d in convenient Liquor as aforeſaid, it is to be adminiſtrated in ſmal p<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oportions, thus; Half a ſpoonful to a Child of half a year old, a whole ſpoonfull to a Child of a year old, two ſpoonfuls to a Child of two years old, and ſo in order and re<g ref="char:EOLhyphen"/>gard
+<pb n="3" facs="tcp:172715:2"/> to the age or ſtrength of the Child, or violence of the Diſ<g ref="char:EOLhyphen"/>eaſe, the proportion of the Phyſick is to be increaſed, and the ſick Child to be applied unto with warm drink, as is before directed.</p>
+            <p>This plain, ready and eaſie courſe of Phyſick, hath ſaved the life of very many perſons of both Sexes and of all ages, lately in and about <hi>London,</hi> and made perfect Cures in all theſe un<g ref="char:EOLhyphen"/>der written Cauſes: whereof but one only is cited for exam<g ref="char:EOLhyphen"/>ple, unto whom thoſe who are doubtful may repaire, and re<g ref="char:EOLhyphen"/>ceive ſatisfaction.</p>
+            <p>
+               <label>Dropſie.</label> One Mrs. <hi>Durdant,</hi> daughter to Mr. <hi>George Wanx,</hi> Houſe-keeper of His Majeſties Pallace of <hi>White Hall,</hi> by means of this Medicine was cured of a very dangerous Dropſie, Jaundice and Scurvy.</p>
+            <p>
+               <label>Worms.</label> The Porter at <hi>Dorcheſter Houſe</hi> about three years ago being at the point of death, took one doſe of this Medicine and voi<g ref="char:EOLhyphen"/>ded a worm of twenty one foot long, and hath been well ever ſince.</p>
+            <p>
+               <label>Madneſs.</label> One <hi>Barrius</hi> a Fiſher-man at <hi>Lambath;</hi> whoſe man ſervant called <hi>William,</hi> was about ſix years paſt diſtracted, had this Medicine given him, and thereby was reſtored to perfect ſence, and hath been well ever ſince.</p>
+            <p>
+               <label>Blindnes</label> 
+               <hi>Margaret Watſon</hi> at the Cradle in Tuttle ſtreet, long blind of both her Eyes, by taking this Medicine inwardly, and the Balſome of <hi>Mars</hi> outwardly applied to the ſore, in the year 1662. was reſtored to her good ſight again in them both, and hath continued well ever ſince.</p>
+            <p>
+               <label>Stone.</label> A Servant Maid of one Mr. <hi>John Gould</hi> Merchant in <hi>Crutched Fryars,</hi> much troubled with the Stone, had one doſe of this Medicine, whereupon ſhe voided fourty two Stones, 'twas in the year 1657. and ſhe hath continued well ever ſince.</p>
+            <p>
+               <label>Flux of Urin.</label> Sir <hi>George Mellwine,</hi> by reaſon of weakneſs in the Ureter could not retain his water, with two doſes of this Medicine taken in 1661. was ſtrengthened in that part, and perfectly cured.</p>
+            <pb n="4" facs="tcp:172715:3"/>
+            <p>
+               <label>Palſey.</label> 
+               <hi>John Leonard</hi> of <hi>Lambath,</hi> being newly taken with the Palſey on the right ſide, in five times taking of this Medicine was per<g ref="char:EOLhyphen"/>fectly cured in the year 1657. and hath continued well ever ſince.</p>
+            <p>
+               <label>Gout.</label> 
+               <hi>Hugh Shoory</hi> of <hi>Lambath,</hi> troubled with the Gout over his whole body, in the year 1657. had this Medicine eleven times, and afterwards fed him with butter'd Ale, he was perfectly cured, and hath continued well ever ſince.</p>
+            <p>
+               <label>Looſneſs or flux.</label> 
+               <hi>Alexander Shrimgear</hi> at Charing Croſs troubled with a dan<g ref="char:EOLhyphen"/>gerous gerous Looſneſs of ſix months continuance, had this Medicine four times, and afterwards I gave him <hi>Putirum Martis</hi> five or ſix times, one ſpoonful in half a pint of warm Ale as hot as he could drink it, and he was perfectly cured.</p>
+            <p>
+               <label>Twiſting of the Guts.</label> 
+               <hi>Thomas Naſhe</hi> at the Coffee Houſe in the New Ally near the Old Exchange, when in his ſickneſs about a year ago, much means for help had been uſed to no purpoſe, was by one doſe of this Medicine cured of the twiſting of his Guts, and hath continued well ever ſince.</p>
+            <p>
+               <label>Smal Pox.</label> 
+               <hi>William Anderſon</hi> in Bell Ally in <hi>Barbacan,</hi> was in the year 1660. cured of the ſmal Pox at the taking of one doſe, and hath been well ever ſince.</p>
+            <p>
+               <label>Swine Pox.</label> 
+               <hi>Thomas Gallaway</hi> at <hi>Northampton Houſe,</hi> about a year ago be<g ref="char:EOLhyphen"/>ing ſick of the ſwine Pox and Floxes, his whole <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ee ſeeming but one bliſter, was perfectly cured at one d<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>g<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ther the help of <hi>Balſomum Martis</hi> outwardly applied.</p>
+            <p>
+               <label>French Pox.</label> N. N. in <hi>Drewry Lane</hi> had about three hun<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> ſores upon his body, and in danger of loſing his N<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe and Pal<g ref="char:EOLhyphen"/>lat of his Mouth, by often taking this Medicine wa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> pe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fectly cured without the loſs of any thing, or any blemiſh to be ſeen.</p>
+            <p>
+               <label>Mercuri<g ref="char:EOLhyphen"/>fied body</label> N. N. in <hi>Holbourn</hi> troubled with a foul Diſeaſe of fourteen years ſtanding, and having been often times fluxed, the Mer<g ref="char:EOLhyphen"/>cury had ſeized upon his Head, Breaſt and Nerves; but ſeven doſes of this Medicine brought out of his body all the Mercury, and reſtored him to perfect health.</p>
+            <pb n="5" facs="tcp:172715:3"/>
+            <p>
+               <label>Dropſie in a child.</label> 
+               <hi>Jonathan Brown</hi> a child of ſix months old in <hi>Theeving Lane,</hi> very much ſwelled in Body and Legs with a Dropſie, when al<g ref="char:EOLhyphen"/>moſt paſt hope of Life, was by help of this Medicine reſtored to perfect health.</p>
+            <p>
+               <label>Itch in a man of 84. years.</label> Mr. <hi>Barksby</hi> at <hi>Lambeth,</hi> aged eighty four years, being troub<g ref="char:EOLhyphen"/>led with the Itch over his whole body, with three doſes of this Medicine was perfectly cured.</p>
+            <p>
+               <label>Feavers.</label> In all manner of Feavers commonly one doſe, or at the moſt two doſes will make a perfect cure, but be ſure to let no blood, and ſuffer not your Patient to faſt too long, but let him have ſome nouriſhment betimes.</p>
+            <p>
+               <label>Rickets.</label> For the Rickets in little children it is an approved Remedy, obſerving your doſe as is above directed.</p>
+            <p>
+               <label>Gonoraea</label> Running of the Reins or <hi>Gonorrhaea,</hi> it is a choyce Remedy; commonly three doſes, or at the moſt four times, will make a perfect Cure; but in this caſe alſo I commonly uſe to give the Sulphur <hi>Martis</hi> at night when they go to bed, in a ſpoonful of Sack, and then waſh it down with a glaſs of the ſame liquor.</p>
+            <p>Mrs. <hi>Collier</hi> near the two Brewers in Peter ſtreet, taken with a continual Sleeping was with five doſes of this Medicine cured of her Lithargy.</p>
+            <p>
+               <hi>Charles Woolls</hi> over againſt the Roſe in Melbanck, troubled with ſpitting of Blood, palpatation of the Heart, pains in the H<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d, ſho<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tneſs of Breath, and cruel ſtitches in his Side, very ſ<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> and weak, was by one doſe of this Medicine cleered from all thoſe diſtempers, and within three or four daies time reco<g ref="char:EOLhyphen"/>vered ſo much ſtrength as to go about his buſſineſs.</p>
+            <div type="part">
+               <p>
+                  <label>Plague.</label> All Diſeaſes or Sickneſſes, or Meſſengers of death, eſpecially that of the <hi>Plague;</hi> for it bites like the fiery Serpents, <hi>Num. 21.</hi> ſud<g ref="char:EOLhyphen"/>denly inflaming the whole body, and conſumes its tinder, if ſpeedy Remedy be not found: Somtimes it comes like the cold Fit of an
+<pb n="6" facs="tcp:172715:4"/> Ague, and ſhaking of the Bones; ſomtimes again like unto a hot Fit, accompanied with pains in the head heavineſs of the eyes, faintneſs, ſhortneſs of breath, palpitation of the heart, pricked as it were with needles over the whole body: ſome again are taken with cruel vomiting of ugly ſtinking matter, blackneſs of the tongue, hoarſneſs of the throat, coſtiveneſs of body, &amp;c. Others again are taken with extraordinary ſcowring of yellow ſtinking matter; o<g ref="char:EOLhyphen"/>thers with a Narcotick ſleep, much ado to awake them, their face greeniſh, their eyes ſwelled and heavy: others again are taken as it were with a madneſs, and cannot ſleep at all, their tongue black, their voyce low, and all their bones ſo ſore as if they had been bea<g ref="char:EOLhyphen"/>ten, their urine thick and very red, ſomtimes black or green (dan<g ref="char:EOLhyphen"/>gerous ſigns) the Pulſes ſomtimes very ſtrong ſomtimes very weak, trembling and inequal, beſides other outward ſignes that will appear upon the body. Having now related ſomthing concerning the Symptoms, let us proceed towards the Cure.</p>
+               <p>Know then in the firſt place. That this Viſitation proceeds <hi>ex<g ref="char:EOLunhyphen"/>ente Dei,</hi> and that no Phyſitian or Medicine is of power to Cure, unleſs firſt the wrath of God be removed: Take therefore Faith and true Repentance along with thee, and go to thy brother, thine own fleſh and blood, for he is ſo kind that he never upbraideth any pe<g ref="char:EOLhyphen"/>netent, but his Arms be alwaies open, ready to imbrace. And a<g ref="char:EOLhyphen"/>gain on the other ſide, he is ſo deerly well beloved of his Father, that in the twinkling of an Eye, he is able to turn his Wrath into Mercy.</p>
+               <p>When thou haſt thus provided for thy Souls health, then mayeſt thou alſo with a good conſcience beg a bleſſing for the reſtauration of the body, for then the Diſeaſe is become Curable: but this di<g ref="char:EOLhyphen"/>ſtemper being of a ſpiritual Nature, of ſo quick and ſo ſwift a Mo<g ref="char:EOLhyphen"/>tion, therefore we muſt look for a quick penetrating Medicine able to withſtand its fury; but neither your common Plague Pills, nor Electuaries, nor Purgations, nor Confections, nor Theriaca, nor Ovum Aureum, nor any ſuch like thing according to preſcription of the common Theory, is able to do it, for thoſe touch not the Locum
+<pb n="7" facs="tcp:172715:4"/> infectionis, but only the Intoriora Corpora. The Diaphoreticks be alſo uncertain, for they only carry off the accidens Narcoticum et Stupefactum, and are not certain in ictu, &amp;c.</p>
+               <p>Take then in the name of God <hi>Aurnm Purgans,</hi> for he is the choi<g ref="char:EOLhyphen"/>ceſt remedy upon this account, becauſe he doth partake of the quatuor entium, take then two drams or four Pills, cut them ſmal, and diſ<g ref="char:EOLhyphen"/>ſolve them in Beer or Ale, as is before directed, only if you let it boyl the fourth part of one hour, it will be the quicker, and more penetrating, but then be ſure that the Veſſel wherein you boyl it, be large enough, becauſe it is apt to ſwel up, and boyl over, when you have thus prepared it, if it be for a Child obſerve your former rule, only a little ſtronger or more quantity by reaſon the vehemence of the diſtemper require it; but if it be for a man or a woman, then give him firſt half your quantity, and if that work within one hours ſpace its well; but if not, and that no ſenſible operation be, then give him half of that which yet remained, and ſtay half an hour longer for its operation; and if that willl not yet do, then give him the reſt, for you muſt come up to his doſe. Then firſt there will come a cold ſweat, then a provocation to vomit, then will it throw up abundance of ſlime, then yellow and green gaul, by which means the Patient is eaſed of the panting of the heart, and ſhortneſs of breath; afterwards <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> will w<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rk downwards and laſt of all will come a <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hich being paſt, give the Patient ſome com<g ref="char:EOLhyphen"/>fortable <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> good Sack will do well; and ſo let him a<g ref="char:EOLhyphen"/>lone unt<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> h<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>urs; in the mean time the Medicine will be <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>ing throughout the whole body; pur<g ref="char:EOLhyphen"/>ging and <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> if he ſhould eat any thing <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Medicine hindered of its Operation<g ref="char:punc">▪</g> but howſoever d<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>ed and the Patient muſt not faſt beyond his ſ<gap reason="illegible" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>th; but be ſure ye ſuffer him not to ſleep; for ſleep doth infect the heart, where the Vital Spirits have their chief dwelling: but after twelve hours is paſt<g ref="char:punc">▪</g> and that the Patient has eat ſomthing, then may he with Gods bleſſing be permitted to reſt a<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> whe<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e comes to be awake again let him ſwallow down one of the Antidoto<g ref="char:EOLhyphen"/>rial
+<pb n="8" facs="tcp:172715:5"/> Pills, and keep another of them in his mouth, playing with it up and down with his tongue; and as it diſſolves ſwallow down the moiſture; it quenches the vehement thirſt, keeps the Tongue and Throat moiſt, and cleer and ſpends the Poyſon as fire doth ſtraw: They be alſo a good preſervative for thoſe that walk upon the ſtreets, holding them in the mouth, no bad ſcent ſhall offend them; and they are not ſo eaſily infected: In this diſtemper I hold it ſafeſt to let no blood, and although the Patient by reaſon of the vehe<g ref="char:EOLhyphen"/>mence of the Diſeaſe be faint and weak, yet by Gods bleſſing there is no danger of his life, if he be well attended, within five dayes it will be better. Thus have I in few lines expreſſed my judg<g ref="char:EOLhyphen"/>ment and experience as touching this diſtemper: others that know a better Remedy, let them do the like to the glory of God, and the preſervation of the health of his Majeſties Subjects.</p>
+               <p>
+                  <hi>N. B.</hi> Every Houſ-keeper ought to be provided with thoſe Medicines in his Houſe, and not then to have them to be ſent for, when there is occaſion to uſe them, for it muſt be admini<g ref="char:EOLhyphen"/>ſtrated within eight or twelve hours at furtheſt, after they find themſelves ill, for that Serpentick fire muſt be quenched, be<g ref="char:EOLhyphen"/>fore the tinder of the body be conſumed, otherwaies it will be a difficult work, were the Medicines never ſo good.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:172715:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
